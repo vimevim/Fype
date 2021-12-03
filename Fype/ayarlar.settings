@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PasoKey" GeneratedClassName="ayarlar">
+  <Profiles />
+  <Settings>
+    <Setting Name="midBut" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="notifyiIconClick" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SingleJoystick</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

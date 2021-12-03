@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasoKey", "Fype\PasoKey.csproj", "{D5BCA350-663C-453D-AA36-9456B97AAFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5BCA350-663C-453D-AA36-9456B97AAFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BCA350-663C-453D-AA36-9456B97AAFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BCA350-663C-453D-AA36-9456B97AAFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BCA350-663C-453D-AA36-9456B97AAFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEC108F0-6393-4106-9C13-ED19740169E0}
+	EndGlobalSection
+EndGlobal
