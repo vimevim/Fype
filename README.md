@@ -1,15 +1,33 @@
-# Fype - Free way to type,
-This is a new way to type on computers, tablets with large screens, virtual and augmented realities with joysticks and swipe gestures. This project mainly focuses on developing solutions for the people who has typing issues because of disabilities.
+# Fype - Free way to type... - ENG
+This is a new and free way to type on computers through thumbstick gestures. This project mainly focuses on developing solutions for the people who has typing issues because of disabilities. 
 
-# Fype - yeniden yazıyoruz…
+With Fype, our gool is to help those who has trouble typing issues with regular keyboard (carpal tunnel syndrome, amputation). Fype name comes from "Free tYPE".
 
-Bilgisayar veya büyük ekranlı tablet kullanırken, sanal gerçeklik ve arttırılmış gerçeklik ortamlarında yazı yazmak isterken, sadece oyun koluyla etkileşebildiğiniz sistemleri kullanırken kullanabileceğiniz yeni bir yazı yazma metodu. Bu projenin ana odağı engelleri nededeniyle yazı yazmakta zorlanan bireyler için çözümler geliştirmektir.
+Why Fype is seamless for disabled people? Becuse it is really easy to type, with your left foot, move up the left-thumbnail on your controller and do the same with your right feet on right-thumbnail on your controller, ta-da. You typed the letter "a"
 
-Fype ile tuşlu klavyelerde yazı yazamayan, yazarken rahatsızlık çeken bireylere yardım etmeyi amaçlıyoruz (Karpel Tünel Sendromu, ALS, Felç, Uzuv kaybı). Fype isminin herhangi bir manası bulunmamakta, kulağa biraz hoş geliyor sadece, bu.
+# Fype - yeniden yazıyoruz… - TUR
 
-Fype'ın çeşitli engellere sahip bireyler için benzersiz olmasının sebebi çok basit hareketlerle yazı yazma imkanı tanımasıdır. İki elinden biri olmayan birisi tekli çember sistemiyle yukarı doğru iki defa kaydırma hareketi yaparak “a” harfini tuşlayabilir. İki eli olmayan bir birey ayakları vasıtasıyla, önce sol ayak sonra sağ ayakla gamepad'ini kullanarak “a” harfini tuşlayabilir. Aynı şekilde fiziksel kabiliyetlerinin hiç birine sahip olmayan felçli bir birey basit göz hareketleriyle yazı yazabilir. Evet bu sisteme benzer bir sistem daha önce bildiğiniz üzere Stephan Hawking’in bilgisayarında kullanılmaktaydı. Benim sunduğum sistemin farkı Stephan’ın kullandığı karmaşık tablolu harf düzeninden daha basit, daha hızlı kullanılmasıdır.
+Bilgisayarda yazı yazmak için yeni bir yazı yazma metodu. Bu projenin ana odağı engelleri nededeniyle yazı yazmakta zorlanan bireyler için çözümler geliştirmektir.
+
+Fype ile tuşlu klavyelerde yazı yazamayan, yazarken rahatsızlık çeken bireylere yardım etmeyi amaçlıyoruz (Karpel Tünel Sendromu, ALS, Felç, Uzuv kaybı). Fype ismi Free tYPE'dan gelmekte. 
+
+Fype'ın çeşitli engellere sahip bireyler için benzersiz olmasının sebebi çok basit hareketlerle yazı yazma imkanı tanımasıdır. İki eli olmayan bir birey ayakları vasıtasıyla, önce sol ayak sonra sağ ayakla joystick'leri ileri itmek eylemiyle gamepad'ini kullanarak “a” harfini tuşlayabilir.
 
 Kullanılan kütüphaneler ve kaynaklar:
 * [OpenJigWare](https://github.com/ojw5014/OpenJigWare/blob/master/OpenJigWare/OpenJigWare.dll) kütüphanesi kullanılmıştır.
+* Windows Forms geliştirme ortamı kullanıldı.
+
+# Fype Notes and Todo's
+
+## What to do?
+	
+ - [ ] Add options to set mouse speeds.
+ - [ ] Change the position of guide panel.(Maybe quick panel look?)
+ - [ ] 
+
+
+## Notes
+ - [ ] Fype needs a logo.
+ - [ ] Fype needs a better gui.
 
 ## [There is an Animation Tutorial on my IG to show how this thing work](https://www.instagram.com/p/CXAL-NvgfZu/)
